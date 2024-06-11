@@ -4,6 +4,9 @@ The goal of this project is to find the path between two specified metro station
 Each station can be part of multiple lines if it's a transfer point (breakpoint).
 ## Key Features
   Station Validation: Ensure that input station names are valid.
+  
   Path Finding: Determine the unique path between two stations.
+  
   Console Output: Print the path to the console.
+  
   Visualization: Animate the path using the StdDraw library.
